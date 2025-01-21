@@ -1,0 +1,3 @@
+questionable index : 83, 88, 111, 115, 129, 143, 154, 170, 221, 262, 265, 277, 278, 292, 293, 295, 296
+
+pickaw, picknava : name of an external app
