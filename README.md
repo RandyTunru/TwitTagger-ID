@@ -1,4 +1,4 @@
-# IndoTagger  
+# TwitTagger-ID
 **A Named Entity Recognition (NER) and Part-of-Speech (POS) Tagging Model for Indonesian Tweets**
 
 ---
