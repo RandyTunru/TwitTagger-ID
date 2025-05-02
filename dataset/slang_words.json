@@ -83,6 +83,7 @@
     "tdk" : "tidak",
     "tdak" : "tidak",
     "gatau" : "enggak tau",
+    "gtau" : "enggak tau",
     "brharap" : "berharap", 
     "tu" : "tuh",
     "blg" : "bilang",
@@ -544,7 +545,8 @@
     "sruduk" : "seruduk",
     "alus" : "halus",
     "fr" : "for real",
-    "liat" : "lihat"
-    
+    "liat" : "lihat",
+    "dtg" : "datang",
+    "smlm" : "semalam",
  }   
  
